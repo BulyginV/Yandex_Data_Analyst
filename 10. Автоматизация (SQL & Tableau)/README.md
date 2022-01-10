@@ -1,4 +1,4 @@
-# Создание дашборда по пользовательским событиям для агрегатора новостей [(Посмотреть проект)](https://nbviewer.jupyter.org/github/BulyginV/Yandex.Practicum/blob/main/01.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/project_01.ipynb)
+# Создание дашборда по пользовательским событиям для агрегатора новостей [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/10.%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%28SQL%20%26%20Tableau%29/10_yandex_dzen_dashboard.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -14,7 +14,7 @@
 `Python`, `Dash`, `Tableau`, `SQL`, `PostgreSQL`, `Sqlalchemy`, `продуктовые метрики`, `построение дашбордов`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.jupyter.org/github/BulyginV/Yandex.Practicum/blob/main/01.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D1%91%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2/project_01.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/10.%20%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%28SQL%20%26%20Tableau%29/10_yandex_dzen_dashboard.ipynb)
 <br>
 [Посмотреть dashboard (Tableau Public)](https://public.tableau.com/app/profile/victor1223/viz/Praktikum_dashdoard_16418182557970/_?publish=yes)
 <br>
