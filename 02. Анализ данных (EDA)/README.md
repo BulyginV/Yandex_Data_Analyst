@@ -1,4 +1,4 @@
-# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/02.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28EDA%29/02_real_estate.ipynb)
+# Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/02.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28EDA%29/02_real_estate.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -15,4 +15,4 @@
 `Python`, `Pandas`, `Matplotlib`, `исследовательский анализ данных`, `визуализация данных`, `предобработка данных`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/02.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28EDA%29/02_real_estate.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/02.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%28EDA%29/02_real_estate.ipynb)
