@@ -1,4 +1,4 @@
-# Определение перспективного тарифа для телеком компании [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/03_telecom_tariffs.ipynb)
+# Определение перспективного тарифа для телеком компании [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/03_telecom_tariffs.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -14,4 +14,4 @@
 `Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `описательная статистика`, `проверка статистических гипотез`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/03_telecom_tariffs.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/03.%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/03_telecom_tariffs.ipynb)
