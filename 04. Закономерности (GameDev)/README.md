@@ -1,4 +1,4 @@
-# Изучение закономерностей, определяющих успешность игр [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
+# Изучение закономерностей, определяющих успешность игр [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -16,4 +16,4 @@
 `Python`, `Pandas`, `Matplotlib`, `NumPy`, `SciPy`, `Seaborn`, `предобработка данных`, `исследовательский анализ данных`, `описательная статистика`, `проверка статистических гипотез`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/04.%20%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%28GameDev%29/04_gamedev.ipynb)
