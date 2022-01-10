@@ -1,4 +1,4 @@
-# Исследование данных авиакомпании — проверка гипотезы о повышении спроса во время фестивалей [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/05_airline_analytics.ipynb)
+# Исследование данных авиакомпании — проверка гипотезы о повышении спроса во время фестивалей [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/05_airline_analytics.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -16,4 +16,4 @@
 `SQL`, `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/05_airline_analytics.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/05.%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/05_airline_analytics.ipynb)
