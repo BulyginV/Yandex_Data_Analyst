@@ -1,4 +1,4 @@
-# Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/07.%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/07_A_B_test.ipynb)
+# Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста [(Посмотреть проект)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/07.%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/07_AB_test.ipynb)
 
 ## Задачи
 Необходимо было обработать данные и решить следующие задачи:
@@ -15,5 +15,5 @@
 `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `SciPy`, `A/B-тестирование`, `проверка статистических гипотез`
 
 ## Открыть проект в формате Jupyter nbviewer
-[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex.Practicum/blob/main/07.%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/07_A_B_test.ipynb)
+[Посмотреть проект](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/07.%20AB-%D1%82%D0%B5%D1%81%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0/07_AB_test.ipynb)
 
