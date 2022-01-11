@@ -20,3 +20,5 @@
 | 12.3 [Банки — Сегментация пользователей по потреблению (финальный проект ч.3)](https://nbviewer.org/github/BulyginV/Yandex_Data_Analyst/blob/main/12.3%20%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9/12_3_bank_churn.ipynb) | `Банковская сфера`, `Кредитование` | `Python`, `Pandas`, `Datetime`, `Numpy`, `Math`, `Scipy`, `Matplotlib`, `Seaborn` | Проанализировать клиентов регионального банка и сегментировать пользователей по количеству потребляемых продуктов |
 
 # Диплом о профессиональной переподготовке по профессии "Аналитик данных"
+
+<img align="center" src="dashboard_maket.png" height="" width="">
